@@ -3,7 +3,7 @@
 ## NLP-DSCI-6004-01 Project
 
 **Project Members:**
-- Venkata Krishna Sreekar Padakandla
+- Venkata P
 - Ujwal Kothapally
 - Indhiresh Reddy Linga Reddy
 
